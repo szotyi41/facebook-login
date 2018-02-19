@@ -1,2 +1,2 @@
 # facebook-login
-Facebook API bejelentkezés tesztelő
+Facebook API bejelentkezés tesztelő.
